@@ -1,0 +1,7 @@
+input::placeholder {
+  font-size: 14px !important;
+}
+
+.form-control:focus {
+  box-shadow: none;
+}
